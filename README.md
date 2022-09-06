@@ -1,4 +1,4 @@
-# Bytewise DataScience Fellowship
+# Bytewise Data Science Fellowship
 
 Bytewise Data Science Fellowship: Learning Data Science from Scratch
 
