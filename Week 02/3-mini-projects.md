@@ -78,15 +78,15 @@ def game():
 
     guess = 0
     while guess != answer:
-        print(f"You have {turns} attempts remaining to guess the number")
+        print(f"You have {turns} attempts remaining to guess the number.")
         guess = int(input("Make a guess: "))
         turns = check_ans(guess, answer, turns)
 
         if turns == 0:
-            print("You've run out of guesses. You lose.")
+            print("You have ran out of guesses. You lose!")
             return
         elif guess != answer:
-            print("Guess Again!")
+            print("Try again!")
 game()
 ```
 
