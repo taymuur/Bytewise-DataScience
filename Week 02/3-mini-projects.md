@@ -4,29 +4,35 @@
 
 ```python 
 print("Welcome to Taimur's Computer Quiz!")
-playing = input("Do you want to play? ")
-if playing.lower() != "yes":
+
+choice = input("Do you want to play? ")
+if choice.lower() != "yes":
     quit()
-print("Okay! Let's start")
+print("Okay! Let's start!")
+
 score = 0
+
 answer = input("What does CPU stand for? ")
 if answer.lower() == "central processing unit":
     print('Correct!')
     score += 1
 else:
     print("Incorrect! The correct answer is central processing unit.")
+    
 answer = input("What does GPU stand for? ")
 if answer.lower() == "graphics processing unit":
     print('Correct!')
     score += 1
 else:
     print("Incorrect! The correct answer is graphics processing unit.")
+    
 answer = input("What does RAM stand for? ")
 if answer.lower() == "random access memory":
     print('Correct!')
     score += 1
 else:
     print("Incorrect! The correct answer is random access memory.")
+    
 answer = input("What does PSU stand for? ")
 if answer.lower() == "power supply":
     print('Correct!')
@@ -45,7 +51,6 @@ import random
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
 
-
 def check_ans(guess, answer, turns):
     if guess > answer:
         print("Too high.")
@@ -56,14 +61,12 @@ def check_ans(guess, answer, turns):
     else:
         print(f"You got it! The answer is {answer}.")
 
-
 def set_difficulty():
     level = input("Choose a difficulty, 'easy' or 'hard': ")
     if level == "easy":
         return EASY_LEVEL_TURNS
     else:
         return HARD_LEVEL_TURNS
-
 
 def game():
     print("Welcome to the Number Guessing Game!")
@@ -114,12 +117,12 @@ else:
         print("You Won!")
         
     elif input_choice == 2 and comp_choice == 0:
-        print("You lost!")
+        print("You Lose!")
         
     elif comp_choice > input_choice:
-        print("You lost")
+        print("You Lose!")
         
     elif input_choice > comp_choice:
-        print("You Win")
+        print("You Won!")
 
 ```
