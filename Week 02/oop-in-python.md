@@ -29,10 +29,10 @@ customers = [Customer('Taimur', 'Platinum'), Customer('Ibrahim', 'Gold')]
 
 ```
 
-## What is Self in Class?
+## What is `self` in Class?
 `Class` methods must have an extra first parameter in the method definition. We do not give a value for this parameter when we call the method, Python provides it. If we have a method that takes no arguments, then we still have to have one argument. When we call a method of an object as `myobject.method(arg1, arg2)`, this is automatically converted by Python into `MyClass.method(myobject, arg1, arg2)` – this is all the special self is about.
 
-## What is the __init__ Method?
+## What is the `__init__` Method?
 It is the default constructor in C++ and Java. Constructors are used to initializing the object’s state. The task of constructors is to initialize the data members of the class when an object of the class is created. Like methods, a constructor also contains a collection of statements that are executed at the time of object creation. It is run as soon as an object of a class is instantiated.
 
 ```python
@@ -78,7 +78,7 @@ Customer.print_all_customers(customers)
 print(customers[0] == customers[1])
 ```
 
-## What is the __hash__ Method?
+## What is the `__hash__` Method?
 Python hash() function is a built-in function and returns the hash value of an object if it has one. The hash value is an integer which is used to quickly compare dictionary keys while looking at a dictionary. Objects hashed using hash() are irreversible, leading to loss of information. `hash()` returns hashed value only for immutable objects, hence can be used as an indicator to check for mutable/immutable objects.
 
 ## OOP Principles
