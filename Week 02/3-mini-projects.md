@@ -39,6 +39,7 @@ if answer.lower() == "power supply":
     score += 1
 else:
     print("Incorrect! The correct answer is power supply.")
+    
 print("You got " + str(score) + " questions correct!")
 print("You got " + str((score / 4) * 100) + "% result.")
 ```
@@ -96,10 +97,7 @@ import random
 USER_WINS = 0
 COMP_WINS = 0
 
-import random
-
-input_choice = int(
-    input('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.'))
+input_choice = int(input('What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.'))
 if input_choice > 2 or input_choice < 0:
     print("You entered an invalid character. You lose!")
 else:
