@@ -89,3 +89,51 @@ Python hash() function is a built-in function and returns the hash value of an o
 	- It provides the reusability of a code. We don’t have to write the same code again and again. Also, it allows us to add more features to a class without modifying it.
 	- It is transitive in nature, which means that if class B inherits from another class A, then all the subclasses of B would automatically inherit from class A
 * `Polymorphism` ets us define methods in the child class that have the same name as the methods in the parent class. In inheritance, the child class inherits the methods from the parent class. However, it is possible to modify a method in a child class that it has inherited from the parent class. This is particularly useful in cases where the method inherited from the parent class does not quite fit the child class. In such cases, we re-implement the method in the child class. This process of re-implementing a method in the child class is known as *method overriding*.
+
+```python
+class User:
+    def log(self):
+        print(self)
+
+class Teacher(User):
+    def log(self):
+        print("I m a teacher")
+
+class Customer(User):
+    def __init__(self,name,membership_type):
+        self.name = name
+        self.membership_type = membership_type
+
+        @property
+        def name(self):                       # Getter function
+            print("Getting name")
+            return self._name
+
+        @name.setter
+        def name(self,name):                  # Setter function
+            print("Setting name")
+            self._name = name
+
+    def update_membership(self,new_membership):
+        self.membership_type = new_membership
+
+    def __str__(self):
+        return self.name + ' ' + self.membership_type
+
+    def print_all_customers(self):
+        for customers in customer:
+           print(customer)
+
+    def __eq__(self, other):
+        if self.name == other.name and self.membership_type == other.membership_type:
+            return  True
+
+        return  False
+
+    __hash__ = None
+    __repr__ = __str__
+    
+users = [Customer('Taimur', 'Platinum'), Customer('Ibrahim', 'Gold')]
+for user in users:
+    user.log()
+```
