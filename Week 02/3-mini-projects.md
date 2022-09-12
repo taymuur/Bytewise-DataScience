@@ -124,3 +124,44 @@ else:
         print("You Won!")
 
 ```
+
+## Password Manager
+
+```python
+from cryptography.fernet import  Fernet
+
+def load_key():
+    file=open('key.key','rb')
+    key = file.read()
+    file.close()
+    return key
+master_pwd = input("Please enter the Master Password: ")
+
+key=load_key() + master_pwd.encode()
+fer = Fernet(key)
+
+def view():
+    with open('password.txt', 'r') as file:
+         for line in file.readlines():
+             data = line.rstrip()
+             user, passw = data.split("|")
+             print("User:", user, "Password:", fer.decrypt(passw.encode()).decode())
+             
+def add():
+    name=input('Account Name: ')
+    pwd=input('Password: ')
+    with open('password.txt', 'a') as file:
+        file.write(name + "|" + fer.encrypt(pwd.encode()).decode() + "\n")
+        
+while True:
+ choice = input("Do you want to add a new password (A) or view existing passwords (V)? Press E to exit. ").lower()
+ if choice.lower() =='e':
+     break
+ if choice.lower() == 'v':
+    view()
+ elif choice.lower() == 'a':
+    add()
+ else:
+    print('Sorry, I could not understand that.')
+    continue
+```
