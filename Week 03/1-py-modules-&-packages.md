@@ -1,6 +1,6 @@
 # Python Modules and Packages
 
-## Modules
+## Python Modules
 * A moodule is a Python file containing Python statements and definitions.
 * We put similar code in one module. This helps modularize our code and makes it much easier to deal with.
 * A modules grants us *reusability*.
@@ -26,7 +26,7 @@ import random
 random.randint(1, 3)
 ```
 
-## Pakages
+## Python Pakages
 
 * A Python package is nothing but a collection of modules along with a `__init__.py` file.
 * The modules can also be arranged in hierarchy of folders inside a package.
