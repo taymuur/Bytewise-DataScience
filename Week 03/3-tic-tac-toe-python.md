@@ -1,4 +1,4 @@
-# Tic Tac Toe in Python
+# Tic Tac Toe Using Python
 
 ```python
 import time
