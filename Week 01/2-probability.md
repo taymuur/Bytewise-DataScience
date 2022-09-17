@@ -31,13 +31,13 @@ Two events are called not mutually exclusive if they have *at least one outcome 
 
 ## Additive Rule
 
-* If A & B are mutually exclusive events: P(A or B) = P(A) + P(B)
-* If A & B are not mutually exclusive events: P(A or B) = P(A) + P(B) – P(A ∩ B)
+* If A & B are mutually exclusive events: P(A OR B) = P(A) + P(B)
+* If A & B are not mutually exclusive events: P(A OR B) = P(A) + P(B) – P(A ∩ B)
 
 
 ## Multiplicative Rule
 
-* If A and B are independent events: P(A and B)= P(A) $\times$ P(B)
-* If A and B are dependent events: P(A and B)= P(A) $\times$ P(B/A)
+* If A and B are independent events: P(A AND B)= P(A) $\times$ P(B)
+* If A and B are dependent events: P(A AND B)= P(A) $\times$ P(B/A), where P(B/A) is conditional probability.
 
 
