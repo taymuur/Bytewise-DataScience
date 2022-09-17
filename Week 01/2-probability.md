@@ -9,7 +9,7 @@ Probability is measure of likelihood of an event. Some examples of such events a
 
 The set of all possible outcomes of a statistical experiment is called `sample space`. It is denoted by S. 
 
-Any subset of sample space is called an `event`. For example, S = {H, T}, A={H}, and B={T}. Here, A and B are events and {H, T} are sample points.
+Any subset of sample space is called an `event`. For example, $S={H, T}, A={H}, B={T}$. Here, A and B are events and {H, T} are sample points.
 
 
 ## Probability of Event
@@ -21,7 +21,7 @@ Probability is always between 0 to 1. For example, the probability of flipping a
 
 Mutually exclusive events are those events that **cannot occur at the same time**. For example, when a coin is tossed then the result will be either head or tail, but we cannot get both the results.
 
-If A and B are mutually exclusive events then its probability is given by P(A OR B) or P (A U B). P (A OR B) = P (A ∪ B) = P(A) + P(B) 
+If A and B are mutually exclusive events then its probability is given by P(A OR B) or $P (A U B) = P (A ∪ B) = P(A) + P(B)$ 
 
 
 ## Not Mutually Exclusive Events
@@ -31,13 +31,13 @@ Two events are called not mutually exclusive if they have **at least one outcome
 
 ## Additive Rule
 
-* If A & B are mutually exclusive events: P(A OR B) = P(A) + P(B)
-* If A & B are not mutually exclusive events: P(A OR B) = P(A) + P(B) – P(A ∩ B)
+* If A & B are mutually exclusive events: $P(A ∩ B) = P(A) + P(B)$
+* If A & B are not mutually exclusive events: $P(A ∩ B) = P(A) + P(B) – P(A ∩ B)$
 
 
 ## Multiplicative Rule
 
-* If A and B are independent events: P(A AND B)= P(A) $\times$ P(B)
-* If A and B are dependent events: P(A AND B) = P(A) $\times$ P(B/A), where P(B/A) is conditional probability.
+* If A and B are independent events: $P(A ∪ B)= P(A) \times P(B)$
+* If A and B are dependent events: $P(A ∪ B) = P(A) \times P(B/A)$, where $P(B/A)$ is conditional probability.
 
 
