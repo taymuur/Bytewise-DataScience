@@ -26,7 +26,7 @@ If A and B are mutually exclusive events then its probability is given by P(A OR
 
 ## Not Mutually Exclusive Events
 
-Two events are called not mutually exclusive if they have *at least one outcome in common*. If the two events A and B are not mutually exclusive events, then A ∩ B ≠ ϕ. Similarly, A, B and C are not mutually exclusive events if $A ∩ B ∩ C ≠ ϕ$.
+Two events are called not mutually exclusive if they have *at least one outcome in common*. If the two events A and B are not mutually exclusive events, then $A ∩ B ≠ ϕ$. Similarly, A, B and C are not mutually exclusive events if $A ∩ B ∩ C ≠ ϕ$.
 
 
 ## Additive Rule
@@ -37,7 +37,7 @@ Two events are called not mutually exclusive if they have *at least one outcome 
 
 ## Multiplicative Rule
 
-* If A and B are independent events: P(A AND B)= P(A) $\times$ P(B)
+* If A and B are independent events: P(A&nbspAND&nbspB)= P(A) $\times$ P(B)
 * If A and B are dependent events: P(A AND B)= P(A) $\times$ P(B/A), where P(B/A) is conditional probability.
 
 
