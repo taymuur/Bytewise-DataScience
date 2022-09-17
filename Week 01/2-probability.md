@@ -21,7 +21,7 @@ Probability is always between 0 to 1. For example, the probability of flipping a
 
 Mutually exclusive events are those events that *cannot occur at the same time*. For example, when a coin is tossed then the result will be either head or tail, but we cannot get both the results.
 
-If A and B are mutually exclusive events then its probability is given by $P(A Or B) or P (A U B). P (A Or B) = P(A) + P(B) P (A ∪ B) = P(A) + P(B)$
+If A and B are mutually exclusive events then its probability is given by P(A OR B) or P (A U B). P (A OR B) = P(A) + P(B) P (A ∪ B) = P(A) + P(B)
 
 
 ## Not Mutually Exclusive Events
@@ -38,3 +38,6 @@ Two events are called not mutually exclusive if they have *at least one outcome 
 ## Multiplicative Rule
 
 * If A and B are independent events: P(A and B)= P(A) $\times$ P(B)
+* If A and B are dependent events: P(A and B)= P(A) $\times$ P(B/A)
+
+
