@@ -37,7 +37,7 @@ Two events are called not mutually exclusive if they have *at least one outcome 
 
 ## Multiplicative Rule
 
-* If A and B are independent events: P(A&nbspAND&nbspB)= P(A) $\times$ P(B)
+* If A and B are independent events: P(A &nbsp  AND &nbsp  B)= P(A) $\times$ P(B)
 * If A and B are dependent events: P(A AND B)= P(A) $\times$ P(B/A), where P(B/A) is conditional probability.
 
 
