@@ -1,9 +1,9 @@
 # Combinatorics
 
 Combinatorics are use to calculate the *total number of possible outcomes*. There are three principles of combinatorics:
-* addition
-* multiplication
-* inclusion-exclusion
+* `addition`
+* `multiplication`
+* `inclusion-exclusion`
 
 Combinatorics deals with the number of ways that certain pattern can be formed. It is used to estimate how many operations a computer algorithm will require.
 
@@ -29,4 +29,6 @@ For example, there are three major auto routes from Washington DC to Chicago and
 
 If the outcome of an experiment can either be drawn from set A or set B and sets A and B may potentially overlap (i.e., it is not guaranteed that $A ∩ B = ∅$), then the number of outcomes of the experiment is $|A ∪ B| = |A| + |B| − |A ∩ B|$.
 
-For example, how many integers from 1 to 100 are multiples of 2 or 3? Let A be the set of integers from 1 to 100 that are multiples of 2, then $∣A∣ = 50$. Let B be the set of integers from 1 to 100 that are multiples of 3, then $∣B∣ = 33$. Now, A∩B is the set of integers from 1 to 100 that are multiples of both 2 and 3, and hence are multiples of 6, implying $∣A ∩ B∣ = 16$. So, $A ∪ B∣ = ∣A∣ + ∣B∣ − ∣A ∩ B∣ = 50 + 33 − 16 = 67$.
+For example, how many integers from 1 to 100 are multiples of 2 or 3? 
+
+Let A be the set of integers from 1 to 100 that are multiples of 2, then $∣A∣ = 50$. Let B be the set of integers from 1 to 100 that are multiples of 3, then $∣B∣ = 33$. Now, $A ∩ B$ is the set of integers from 1 to 100 that are multiples of both 2 and 3, and hence are multiples of 6, implying $∣A ∩ B∣ = 16$. So, $A ∪ B∣ = ∣A∣ + ∣B∣ − ∣A ∩ B∣ = 50 + 33 − 16 = 67$.
