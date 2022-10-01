@@ -1,4 +1,4 @@
-# List of Tasks Covered So Far
+# List of tasks covered so far
 
 ### Week 1: `Basics of Data Science`
 
