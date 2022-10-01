@@ -1,4 +1,4 @@
-# Tasks Covered So Far
+# Bytewise Data Science Fellowship: Tasks Covered So Far
 
 ### Week 1: `Basics of Data Science`
 
