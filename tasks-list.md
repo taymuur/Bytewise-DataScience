@@ -30,4 +30,4 @@
 20. [Scraping Multiple Pages](https://www.youtube.com/watch?v=quMUjys9BcU&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=25)
 
 ### Week 5: `Automating with Python`
-16. [Python Automation](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+21. [Python Automation](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
