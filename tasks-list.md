@@ -21,7 +21,7 @@
 13. [Snake Game](https://www.youtube.com/watch?v=M_npdRYD4K0)
 14. [Tic Tac Toe](https://www.youtube.com/watch?v=BHh654_7Cmw)
 
-### [Week 4: `Web Scraping Using Scrapy`](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
+### Week 4: [`Web Scraping Using Scrapy`](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 15. [Setting up Scrapy](https://www.youtube.com/watch?v=OlAouS669bc&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=4)
 16. [Scraping Quotes & Authors](https://www.youtube.com/watch?v=cC9aFbViT_c&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=11)
 17. [Pipelines](https://www.youtube.com/watch?v=VMVFB1VKpto&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=14)
