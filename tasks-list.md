@@ -2,9 +2,9 @@
 
 ### Week 1: `Basics of Data Science`
 
-1. [What is Data Science](https://www.youtube.com/watch?v=KxryzSO1Fjs)
-2. [Probability](https://www.youtube.com/watch?v=MOptXrYYcoY)
-3. [Combinatorics](https://www.youtube.com/watch?v=ied31kWht7Y)
+[[1]](https://www.youtube.com/watch?v=KxryzSO1Fjs) What is Data Science?
+[[2]](https://www.youtube.com/watch?v=MOptXrYYcoY) Probability
+[[3]](https://www.youtube.com/watch?v=ied31kWht7Y) Combinatorics
 
 ### Week 2: `Basics of Python`
 4. [Hello World!](https://www.learnpython.org/en/Hello,_World!)
@@ -31,7 +31,7 @@
 
 ### Week 5: `Automating with Python`
 21. [Emailing Top News Stories](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
-22. [TED Talk Downloaded](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
-23. [Image Converter](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+22. [TED Talk Downloaded](https://www.youtube.com/watch?v=s8XjEuplx_U&t=2610s)
+23. [Image Converter](https://www.youtube.com/watch?v=s8XjEuplx_U&t=8592s)
 24. [PDF Parser](https://www.youtube.com/watch?v=s8XjEuplx_U&t=3388s)
-25. [Text Summarization](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+25. [Text Summarization](https://www.youtube.com/watch?v=s8XjEuplx_U&t=9980s)
