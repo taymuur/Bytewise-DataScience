@@ -21,7 +21,7 @@
 13. [Snake Game](https://www.youtube.com/watch?v=M_npdRYD4K0)
 14. [Tic Tac Toe](https://www.youtube.com/watch?v=BHh654_7Cmw)
 
-### Week 4: [`Web Scraping Using Scrapy`](https://www.youtube.com/playlist?list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
+### Week 4: `Web Scraping Using Scrapy`
 15. [Setting up Scrapy](https://www.youtube.com/watch?v=OlAouS669bc&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=4)
 16. [Scraping Quotes & Authors](https://www.youtube.com/watch?v=cC9aFbViT_c&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=11)
 17. [Pipelines](https://www.youtube.com/watch?v=VMVFB1VKpto&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=14)
@@ -30,4 +30,8 @@
 20. [Scraping Multiple Pages](https://www.youtube.com/watch?v=quMUjys9BcU&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t&index=25)
 
 ### Week 5: `Automating with Python`
-21. [Python Automation](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+21. [Emailing Top News Stories](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+22. [TED Talk Downloaded](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+23. [Image Converter](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+24. [PDF Parser](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+25. [Text Summarization](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
