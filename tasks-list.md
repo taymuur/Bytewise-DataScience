@@ -7,7 +7,7 @@
 [[3]](https://www.youtube.com/watch?v=ied31kWht7Y) Combinatorics  
 
 ### Week 2: `Basics of Python`
-4. [Hello World!](https://www.learnpython.org/en/Hello,_World!)
+[4.](https://www.learnpython.org/en/Hello,_World!) Hello World!
 5. [Variables & Types](https://www.learnpython.org/en/Variables_and_Types)
 6. [Lists](https://www.learnpython.org/en/Lists)
 7. [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
