@@ -33,5 +33,5 @@
 21. [Emailing Top News Stories](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
 22. [TED Talk Downloaded](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
 23. [Image Converter](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
-24. [PDF Parser](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
+24. [PDF Parser](https://www.youtube.com/watch?v=s8XjEuplx_U&t=3388s)
 25. [Text Summarization](https://www.youtube.com/watch?v=s8XjEuplx_U&t=75s)
