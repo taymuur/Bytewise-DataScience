@@ -1,6 +1,6 @@
 # Text Summarization Using Python
 
-## Scraping data without using beatifulsoup
+## Scraping data without using BS4
 
 ```python
 # Importing the libraries
@@ -70,7 +70,7 @@ for sent in sents:
 print(summary)
 ```
 
-## Scraping data using beautifulsoup
+## Scraping data using BS4
 ```python  
 # Importing the libraries
 import bs4
@@ -91,7 +91,10 @@ bs.select('p')
 for i in bs.select('p'):
     content=i.text
     print(content)
-    
+```
+
+## Sentiment analysis using NLP
+```python
 # Removing the stop words
 stopWords = set(stopwords.words("english"))
 words = word_tokenize(content)
