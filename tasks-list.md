@@ -2,9 +2,11 @@
 
 ### Week 1: `Basics of Data Science`
 
-  [[1]](https://www.youtube.com/watch?v=KxryzSO1Fjs) What is Data Science?  
-  [[2]](https://www.youtube.com/watch?v=MOptXrYYcoY) Probability  
-  [[3]](https://www.youtube.com/watch?v=ied31kWht7Y) Combinatorics  
+\begin{itemize}
+\item[] [[1]](https://www.youtube.com/watch?v=KxryzSO1Fjs) What is Data Science?  
+\item[] [[2]](https://www.youtube.com/watch?v=MOptXrYYcoY) Probability  
+\item[] [[3]](https://www.youtube.com/watch?v=ied31kWht7Y) Combinatorics 
+\end{itemize}
 
 ### Week 2: `Basics of Python`
 [4.](https://www.learnpython.org/en/Hello,_World!) Hello World!
