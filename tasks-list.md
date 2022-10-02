@@ -1,13 +1,12 @@
 # Bytewise Data Science Fellowship: Tasks Covered So Far
 
 ### Week 1: `Basics of Data Science`
-
-|  [[1]](https://www.youtube.com/watch?v=KxryzSO1Fjs) What is Data Science?  
-|  [[2]](https://www.youtube.com/watch?v=MOptXrYYcoY) Probability  
-|  [[3]](https://www.youtube.com/watch?v=ied31kWht7Y) Combinatorics  
+1. [What is Data Science?](https://www.youtube.com/watch?v=KxryzSO1Fjs)  
+2. [Probability](https://www.youtube.com/watch?v=MOptXrYYcoY)   
+3. [Combinatorics](https://www.youtube.com/watch?v=ied31kWht7Y)   
 
 ### Week 2: `Basics of Python`
-[4.](https://www.learnpython.org/en/Hello,_World!) Hello World!
+4. [Hello World!](https://www.learnpython.org/en/Hello,_World!)
 5. [Variables & Types](https://www.learnpython.org/en/Variables_and_Types)
 6. [Lists](https://www.learnpython.org/en/Lists)
 7. [Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
