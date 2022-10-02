@@ -55,7 +55,7 @@ server.starttls()
 server.login(FROM, PASS)
 server.sendmail(FROM, TO, msg.as_string())
 
-print('Email Sent')
+print('Email has been sent successfully.')
 
 server.quit()
 
