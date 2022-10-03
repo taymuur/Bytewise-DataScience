@@ -6,7 +6,7 @@ from PIL import Image
 import glob
 ```
 
-## PNG to JPEG Conversion
+## PNG to JPG conversion
 ```python
 for file in glob.glob("*.png"):
     image = Image.open(file)
@@ -14,7 +14,7 @@ for file in glob.glob("*.png"):
     rgb_im.save(file.replace("png", "jpg"), quality=100)
 ```
 
-## JPG to PNG Conversion
+## JPG to PNG conversion
 ```python
 for file in glob.glob("*.jpg"):
     image = Image.open(file)
