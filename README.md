@@ -52,11 +52,15 @@ Know more about Bytewise Limited [here](https://www.bytewiseltd.com/).
 ### Week 7: `Natural Language Processing`
 30. [Introduction to NLP](https://www.youtube.com/watch?v=bPpwZxasJo0)
 
-### Week 9: `Structured Query Language`
+### Week 8: `Structured Query Language`
 31. [Introduction to SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 32. [Creating Tables](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=4549s)
 33. [Basic Queries](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=6972s)
 34. [Creating Company Database](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=7717s)
 35. [ER Diagrams](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=13332s)
+
+### Week 9: `Advanced MySQL`
+36. [Doing Advanced Queries](https://www.youtube.com/watch?v=es_t9QXpXY4&list=PLBlpUqEneF0-xZ1ctyLVqhwJyoQsyfOsO&index=6)
+37. [Advanced MySQL Concepts](https://www.youtube.com/watch?v=NPAaZ0GkSsI&list=PLBlpUqEneF0-xZ1ctyLVqhwJyoQsyfOsO&index=7)
 
 
