@@ -6,7 +6,7 @@ The Bytewise Limited Fellowship is a diverse community program that welcomes fel
 
 Know more about Bytewise Limited [here](https://www.bytewiseltd.com/).
 
-## Topics Covered So Far
+## Overview
 
 ### Week 1: `Basics of Data Science`
 1. [What is Data Science?](https://www.youtube.com/watch?v=KxryzSO1Fjs)  
@@ -42,4 +42,21 @@ Know more about Bytewise Limited [here](https://www.bytewiseltd.com/).
 23. [Image Converter](https://www.youtube.com/watch?v=s8XjEuplx_U&t=8592s)
 24. [PDF Parser](https://www.youtube.com/watch?v=s8XjEuplx_U&t=3388s)
 25. [Text Summarization](https://www.youtube.com/watch?v=s8XjEuplx_U&t=9980s)
+
+### Week 6: `GUI Using Python Tkinter`
+26. [Build a Simple Calculator App](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=2331s)
+27. [Build an Image Viewer App](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=5263s)
+28. [Building Out a GUI for Our Database App](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=12748s)
+29. [Build a Weather App](https://www.youtube.com/watch?v=YXPyB4XeYLA&t=16977s)
+
+### Week 7: `Natural Language Processing`
+30. [Introduction to NLP](https://www.youtube.com/watch?v=bPpwZxasJo0)
+
+### Week 9: `Structured Query Language`
+31. [Introduction to SQL](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+32. [Creating Tables](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=4549s)
+33. [Basic Queries](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=6972s)
+34. [Creating Company Database](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=7717s)
+35. [ER Diagrams](https://www.youtube.com/watch?v=HXV3zeQKqGY&t=13332s)
+
 
