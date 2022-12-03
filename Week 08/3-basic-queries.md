@@ -1,3 +1,5 @@
+## Basic Queries
+
 ### Count Number of Employees
 
 ```sql
