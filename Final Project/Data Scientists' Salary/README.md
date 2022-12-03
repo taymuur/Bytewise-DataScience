@@ -72,8 +72,9 @@ Three different models were trained and evaluated using Mean Absolute Error (MAE
 
 ## Model Evaluation
 
-The Random Forest model far outperformed the other approaches on the test and validation sets.
+The Random Forest model, with `criterion='mse'` and `n_estimators=60`, far outperformed the other approaches on the test and validation sets.
 
 * Random Forest: MAE = 11.22
 * Linear Regression: MAE = 18.86
 * Lasso Regression: MAE = 19.67
+
